@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [![website](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/shashidhar-y-bhat-1634a6214/)
+&nbsp;&nbsp;
 [![website](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/shashidharybhat/)
-
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
